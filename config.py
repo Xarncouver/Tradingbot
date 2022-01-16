@@ -1,9 +1,9 @@
 
-apikey = 'egavWamahQAXFW9ke7LntNdoqhb2LOr7XbBHdNg4OMpBfLZor0UJkcGBP9xT6fFg'
-apiSecurity = 'K3vZvQW59aMgUcMQwOUCZT2msWyT1cCpbJB69BSFiOKm13GSTLcv2vpuW7vJ4qzn'
+apikey = ''
+apiSecurity = ''
 
-email = "wimpie.jjw3@gmail.com"
-email_pass = "jaapvb1345"
+email = ""
+email_pass = ""
 
 
 ma_period_short = 40
